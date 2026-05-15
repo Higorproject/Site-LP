@@ -1,6 +1,6 @@
 # Avante Partners - Site Institucional Premium
 
-Site institucional desenvolvido para uma consultoria empresarial, com foco em apresentação profissional, captação de contatos e experiência responsiva.
+Site institucional desenvolvido para uma consultoria empresarial, com foco em apresentação profissional, captação de contatos e experiência responsiva. "LEMBRANDO QUE FOI UM SITE CRIADO PARA UM DE MEUS PROJETOS, FOI RETIRADOTODA LOGICA OU DADOS FORNECIDO DO MESMO"
 
 ## Tecnologias
 
@@ -19,9 +19,10 @@ Site institucional desenvolvido para uma consultoria empresarial, com foco em ap
 - Indicadores comerciais
 - Área de resultados
 - Depoimentos
-- FAQ
+- FAQ interativo
 - Formulário de contato
-- Estrutura preparada para backend e painel administrativo
+- Layout responsivo para desktop, tablet e mobile
+- Estrutura preparada para integração com backend
 
 ## Deploy
 
@@ -31,4 +32,4 @@ https://site-lp-six.vercel.app
 
 ## Objetivo
 
-Projeto criado para demonstrar habilidades em desenvolvimento web moderno, criação de sites institucionais, landing pages e estrutura full-stack.
+Projeto criado para demonstrar habilidades em desenvolvimento web moderno, criação de sites institucionais, landing pages profissionais e estrutura preparada para integrações futuras.
