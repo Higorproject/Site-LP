@@ -25,7 +25,9 @@ Site institucional desenvolvido para uma consultoria empresarial, com foco em ap
 
 ## Deploy
 
-O frontend está publicado na Vercel.
+Frontend publicado na Vercel:
+
+https://site-lp-six.vercel.app
 
 ## Objetivo
 
