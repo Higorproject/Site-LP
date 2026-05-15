@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: #0f172a;
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+.font-display { font-family: 'Plus Jakarta Sans', sans-serif; }
+
+.gradient-hero {
+  background:
+    radial-gradient(circle at 20% 20%, rgba(59,130,246,0.18), transparent 50%),
+    radial-gradient(circle at 80% 0%, rgba(16,185,129,0.12), transparent 45%),
+    linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%);
+}
+.gradient-dark {
+  background: linear-gradient(135deg, #0b1120 0%, #1e293b 60%, #1e3a8a 100%);
+}
+.text-gradient {
+  background: linear-gradient(135deg, #1e3a8a, #2563eb 60%, #10b981);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
